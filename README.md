@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Singh</h1>
 <h3 align="center">A passionate FULL STACK WEB DEVELOPER || MERN DEVELOPER || NEXT JS DEVELOPER</h3>
 
-- 🔭 some of my past Project's are [NoteBook, E-DashBoard](https://github.com/SANTO-C96/NoteBook https://github.com/SANTO-C96/E-DashBoard)
+- 🔭 some of my past Project's are [TextUtiles, NoteBook, E-DashBoard](https://text-utiles-c7m6.vercel.app/ https://note-book-frontend-pi.vercel.app/ https://e-dash-board-frontend.vercel.app/)
 
 - 🌱 I’m currently Mastering in **MERN**
 
